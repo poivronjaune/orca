@@ -16,7 +16,7 @@ CANADA GOVERNMENT
   |---|---|---|
   |WWF-Canada|[World Wildlife Fund](https://wwf.ca/species/southern-resident-killer-whales/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGLHemHc1SMrGs9JglS_b1FJrSudedCtpwWuM-VImzdaFl0zn1Y2pcAaAk2wEALw_wcB)|Killer Whale Facts & Other Whales|  
 
-## Tourisme or Other Whale related links  
+## Tourism or Other Whale related links  
 |Business|Industry|Notes|
 |---|---|---|
 |[Bonjour Québec](https://viensvoirlesbaleines.com/en/)|Whale watching industry|Rare presence of Orca|
