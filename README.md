@@ -14,4 +14,11 @@ CANADA GOVERNMENT
   ## Other Organisations
   |Organisation|Name|Subject/Description|
   |---|---|---|
-  |WWF-Canada|[World Wildlife Fund](https://wwf.ca/species/southern-resident-killer-whales/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGLHemHc1SMrGs9JglS_b1FJrSudedCtpwWuM-VImzdaFl0zn1Y2pcAaAk2wEALw_wcB)|Killer Whale Facts & Other Whales|
+  |WWF-Canada|[World Wildlife Fund](https://wwf.ca/species/southern-resident-killer-whales/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGLHemHc1SMrGs9JglS_b1FJrSudedCtpwWuM-VImzdaFl0zn1Y2pcAaAk2wEALw_wcB)|Killer Whale Facts & Other Whales|  
+    
+      
+## Other whale species
+[Beluga](https://wwf.ca/species/beluga/)  
+[North Atlantic Right Whales](https://wwf.ca/species/north-atlantic-right-whales/)  
+[Narwhals](https://wwf.ca/species/narwhals/)  
+[Bowhead Whales](https://wwf.ca/species/bowhead-whales/)  
