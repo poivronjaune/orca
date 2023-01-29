@@ -20,6 +20,7 @@ CANADA GOVERNMENT
 |Business|Industry|Notes|
 |---|---|---|
 |[Bonjour Québec](https://viensvoirlesbaleines.com/en/)|Whale watching industry|Rare presence of Orca|
+|[GREMM](https://gremm.org/))|Groupe de recherche et d’éducation sur les mammifères marins|Tadoussac in Québec|
       
 ## Other whale species
 [Beluga](https://wwf.ca/species/beluga/)  
